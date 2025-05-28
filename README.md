@@ -4,6 +4,8 @@ problem1为任务1：在ImageNet上预训练的卷积神经网络实现CalTech10
 
 problem2为任务2：使用mmdetection目标检测框架，在VOC数据集上训练并测试模型Mask R-CNN与Sparse R-CNN
 
+训练好的网络权重在https://drive.google.com/drive/folders/1n7jWwbzueo9ESeArs1OcIla9X_VbNh7v?usp=drive_link
+
 # 任务1使用方法：
 
 主要包含main.py与test.py
