@@ -16,7 +16,7 @@ problem2为任务2：使用mmdetection目标检测框架，在VOC数据集上训
 
 ## 测试方法
 
-1. 修改test.py中的数据集路径，随后执行test.py进行测试，可测试的模型有：best_model_unpretrained.pth与best_model_pretrained.pth
+1. 修改test.py中的数据集路径，随后执行python test.py进行测试，可测试的模型有：best_model_unpretrained.pth与best_model_pretrained.pth
 
 # 任务2使用方法：
 
